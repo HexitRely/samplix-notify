@@ -2,39 +2,16 @@
   "schema_version": 1,
   "last_updated": "2025-12-27T10:00:00Z",
   "notifications": [
-    {
-      "id": "welcome-alpha-2",
-      "type": "info",
-      "priority": 3,
-      "title": "Witaj w Samplix Alpha 2.0!",
-      "content": "Uruchomiliśmy zupełnie nowy system powiadomień oraz tryb Creator Mode. Sprawdź ustawienia!",
-      "link": "https://hexitrely.pl",
-      "min_app_version": "2.0.0",
-      "created_at": "2025-12-26T09:00:00Z",
-      "expires_at": "2026-01-10T23:59:59Z"
-    },
-    {
-      "id": "update-hotfix-201",
-      "type": "update",
-      "priority": 2,
-      "title": "Dostępna poprawka 2.0.1",
-      "content": "Naprawiliśmy błąd związany z odświeżaniem dzwonka powiadomień. Pobierz najnowszą paczkę z GitHub.",
-      "link": "https://github.com/HexitRely/samplix/releases",
-      "min_app_version": "2.0.0",
-      "max_app_version": "2.0.5",
-      "created_at": "2025-12-27T08:00:00Z",
-      "expires_at": "2026-01-15T00:00:00Z"
-    },
-    {
-      "id": "warning-server-sync",
-      "type": "warning",
-      "priority": 1,
-      "title": "Synchronizacja bazy danych",
-      "content": "Dzisiaj po godzinie 20:00 planujemy krótką przerwę w działaniu repozytorium paczek online.",
-      "link": null,
-      "min_app_version": "2.0.0",
-      "created_at": "2025-12-27T10:00:00Z",
-      "expires_at": "2025-12-28T00:00:00Z"
-    }
+{
+  "id": "Samplix alpha 2.2 BUILD",
+  "type": "update",
+  "priority": 3,
+  "title": "Samplix alpha 2.2 BUILD NOW AVEILEBLE",
+  "content": "Download last version from link",
+  "link": "https://docs.google.com/document/d/1TaeeWnyttIkTZZngLBSuai4I5TT_gNFE2PQ3SxUCaXA/edit?tab=t.0",
+  "min_app_version": "2.0.0",
+  "created_at": "2025-12-27T11:32:00Z",
+  "expires_at": "2026-01-10T11:32:00Z"
+}
   ]
 }

@@ -3,33 +3,9 @@
   "last_updated": "2025-12-27T10:00:00Z",
   "notifications": [
 {
-  "id": "Samplix alpha 2.2 BUILD",
-  "type": "update",
-  "priority": 3,
-  "title": "Samplix alpha 2.2 BUILD NOW AVEILEBLE",
-  "content": "Download last version from link",
-  "link": "https://docs.google.com/document/d/1TaeeWnyttIkTZZngLBSuai4I5TT_gNFE2PQ3SxUCaXA/edit?tab=t.0",
-  "min_app_version": "2.0.0",
-  "created_at": "2025-12-27T11:32:00Z",
-  "expires_at": "2026-01-10T11:32:00Z"
-},
-
-{
-  "id": "alpha2.3",
-  "type": "update",
-  "priority": 3,
-  "title": "SAMPLIX ALPHA 2.3",
-  "content": "SAMPLIX ALPHA 2.3 just dropped better sample verify script\nbug fixes and alot check it out now",
-  "link": "https://drive.google.com/file/d/1wxjGm564mtCEYqBJ1Bzt1pLrNlaodnWZ/view?usp=sharing",
-  "min_app_version": "2.0.0",
-  "created_at": "2025-12-27T23:05:39Z",
-  "expires_at": "2026-01-10T23:05:39Z"
-},
-
-{
   "id": "ALFA 2.4.b",
   "type": "update",
-  "priority": 3,
+  "priority": 1,
   "title": "ALFA 2.4.b just dropped",
   "content": "ALFA 2.4.b just dropped check it out",
   "link": "https://drive.google.com/file/d/1RrThVtZg44O5I7voX9JPsQKrP3H0V22D/view?usp=sharing",

@@ -46,6 +46,17 @@
   "min_app_version": "2.0.0",
   "created_at": "2026-01-08T20:44:45Z",
   "expires_at": "2026-01-22T20:44:45Z"
+},
+{
+  "id": "test rozmowa vc",
+  "type": "warning",
+  "priority": 3,
+  "title": "test rozmowa vc",
+  "content": "test rozmowa vc",
+  "link": null,
+  "min_app_version": "2.0.0",
+  "created_at": "2026-01-11T13:27:30Z",
+  "expires_at": "2026-01-25T13:27:30Z"
 }
   ]
 }

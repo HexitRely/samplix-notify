@@ -1,39 +1,17 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-02-26T14:42:00Z",
+  "last_updated": "2026-02-26T16:02:57Z",
   "notifications": [
     {
-      "id": "b1info",
-      "type": "info",
-      "priority": 1,
-      "title": "Samplix Beta 1.0 soon",
-      "content": "Przygotowujemy się do wydania wersji Beta 1.0! Spodziewaj się wielu nowości.",
-      "link": "https://hexitrely.pl",
-      "min_app_version": "2.0.0",
-      "created_at": "2026-02-25T10:00:00Z",
-      "expires_at": "2026-03-10T10:00:00Z"
-    },
-    {
-      "id": "test-vc",
+      "id": "betanotify1",
       "type": "update",
-      "priority": 2,
-      "title": "Test rozmowa vc",
-      "content": "Zapraszamy na rozmowę o projekcie na kanale VC dzisiaj o 20:00!",
-      "link": null,
-      "min_app_version": "2.0.0",
-      "created_at": "2026-02-26T12:00:00Z",
-      "expires_at": "2026-02-27T12:00:00Z"
-    },
-    {
-      "id": "system-fix-v1",
-      "type": "info",
       "priority": 1,
-      "title": "System powiadomień naprawiony",
-      "content": "Jeśli widzisz to powiadomienie, oznacza to, że Twój plik JSON jest już poprawny!",
+      "title": "SAMPLIX BETA 1.0 SOON",
+      "content": "SAMPLIX BETA 1.0 SOON Check out for update on alpha documents",
       "link": null,
       "min_app_version": "2.0.0",
-      "created_at": "2026-02-26T14:40:00Z",
-      "expires_at": "2026-03-05T14:40:00Z"
+      "created_at": "2026-02-26T16:02:55Z",
+      "expires_at": "2026-03-12T16:02:55Z"
     }
   ]
 }
